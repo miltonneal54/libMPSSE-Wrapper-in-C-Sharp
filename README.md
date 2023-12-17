@@ -2,7 +2,6 @@
 C# Wrapper class for FTDI's libMPSSE Library
 LibMPSSE_Net is a .NET wrapper class  (written in C# using VS2019) for the FTDI's libMPSSE library.
 This class gives you access and the ability to read, write and manipulate  I2C and SPI devices from you PC or laptop running under 
-
 the Windows OS.
 FTDI's libMPSSE.dll allows interfacing with FT232H, FT2232H and FT4232H based modules.
 
