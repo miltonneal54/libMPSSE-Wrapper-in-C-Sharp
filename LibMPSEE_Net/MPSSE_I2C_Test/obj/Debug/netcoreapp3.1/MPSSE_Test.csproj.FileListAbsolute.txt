@@ -1,0 +1,17 @@
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\obj\Debug\netcoreapp3.1\MPSSE_Test.AssemblyInfoInputs.cache
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\obj\Debug\netcoreapp3.1\MPSSE_Test.AssemblyInfo.cs
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\obj\Debug\netcoreapp3.1\MPSSE_Test.csproj.CoreCompileInputs.cache
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\bin\Debug\netcoreapp3.1\MPSSE_Test.exe
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\bin\Debug\netcoreapp3.1\MPSSE_Test.deps.json
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\bin\Debug\netcoreapp3.1\MPSSE_Test.runtimeconfig.json
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\bin\Debug\netcoreapp3.1\MPSSE_Test.runtimeconfig.dev.json
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\bin\Debug\netcoreapp3.1\MPSSE_Test.dll
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\bin\Debug\netcoreapp3.1\MPSSE_Test.pdb
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\bin\Debug\netcoreapp3.1\MPSSENet.dll
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\bin\Debug\netcoreapp3.1\MPSSENet.pdb
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\bin\Debug\netcoreapp3.1\MPSSENet.xml
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\obj\Debug\netcoreapp3.1\MPSSE_Test.csprojAssemblyReference.cache
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\obj\Debug\netcoreapp3.1\MPSSE_Test.csproj.CopyComplete
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\obj\Debug\netcoreapp3.1\MPSSE_Test.dll
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\obj\Debug\netcoreapp3.1\MPSSE_Test.pdb
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSE_Test\obj\Debug\netcoreapp3.1\MPSSE_Test.genruntimeconfig.cache
