@@ -7,9 +7,13 @@ the Windows OS.
 FTDI's libMPSSE.dll allows interfacing with FT232H, FT2232H and FT4232H based modules.
 
 For this project I used:
+
 FT232H breakout single channel module.
+
 24C02P (2048 bit) I2C EEPROM
+
 CAT93C46 (1024 bit) SPI EEPROM
+
 
 The Library consists of 3 main classes.
 1. MPSSE (Base class)
