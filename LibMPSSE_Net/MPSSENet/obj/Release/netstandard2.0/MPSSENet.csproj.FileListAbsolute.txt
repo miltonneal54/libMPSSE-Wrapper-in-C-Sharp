@@ -1,0 +1,10 @@
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSENet\bin\Release\netstandard2.0\MPSSENet.deps.json
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSENet\bin\Release\netstandard2.0\MPSSENet.dll
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSENet\bin\Release\netstandard2.0\MPSSENet.pdb
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSENet\bin\Release\netstandard2.0\MPSSENet.xml
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSENet\obj\Release\netstandard2.0\MPSSENet.csprojAssemblyReference.cache
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSENet\obj\Release\netstandard2.0\MPSSENet.AssemblyInfoInputs.cache
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSENet\obj\Release\netstandard2.0\MPSSENet.AssemblyInfo.cs
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSENet\obj\Release\netstandard2.0\MPSSENet.csproj.CoreCompileInputs.cache
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSENet\obj\Release\netstandard2.0\MPSSENet.dll
+C:\Users\Milton\source\repos\C#\LibMPSSE_Net\MPSSENet\obj\Release\netstandard2.0\MPSSENet.pdb
